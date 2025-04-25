@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Ranim!
 
-I’m a passionate **Sodtware engineering student** currently exploring the world of **web development**, **mobile development**, and **AI**. My journey is focused on learning, building, and contributing to innovative solutions that tackle real-world problems. 
+I’m a passionate **software engineering student** currently exploring the world of **web development**, **mobile development**, and **AI**. My journey is focused on learning, building, and contributing to innovative solutions that tackle real-world problems. 
 
 ---
 
