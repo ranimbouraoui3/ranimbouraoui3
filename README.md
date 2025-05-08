@@ -43,11 +43,5 @@ I’m always open to new opportunities and collaborations, especially in buildin
 - [**Adminity Master**](https://github.com/ranimbouraoui/adminity-master) – A web app for task and employee management with a Spring Boot backend and React frontend.
 - [**ClassQuiz**](https://github.com/ranimbouraoui/classquiz) – An educational app with an AI-powered chatbot and interactive avatars for primary school students.
 
----
-
-### 🌱 **Fun Fact:**
-I believe technology should always serve a greater purpose — to solve real-world challenges and make life better for everyone.
-
----
 
 Thanks for stopping by, and feel free to connect! 😊
